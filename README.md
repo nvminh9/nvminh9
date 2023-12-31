@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img style="border-radius:15px;" ![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding Gif" width="400px" align="right">
+![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding Gif" width="400px" align="right" border-radius="15px">
 <h1 align="center">I'm Minh Ngô</h1>
 <h3 align="center">I'm an indie full-stack developer 😎🔥💩</h3>
 
