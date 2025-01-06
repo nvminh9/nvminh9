@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+<!-- ![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg) -->
 
 <a href="https://komarev.com/ghpvc/?username=nvminh9&label=Profile%20views&color=0e75b6&style=flat">
   <img align="right" src="https://komarev.com/ghpvc/?username=nvminh9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
