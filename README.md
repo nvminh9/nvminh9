@@ -72,6 +72,7 @@
 <hr/>
 <br/>
 
+<!--
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nvminh9&theme=radical&border_radius=5" alt="GitHub Streak" /></a>
 </p>
@@ -87,6 +88,6 @@
   <a href="https://github.com/nvminh9"><img alt="nvminh9's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nvminh9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
+-->
 
 ![nvminh9's Graph](https://github-readme-activity-graph.vercel.app/graph?username=nvminh9&custom_title=nvminh9's%20Github%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
